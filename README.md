@@ -7,5 +7,5 @@ This project focuses on the application of **deep learning to natural language p
 * Built an autoencoder where the encoder and decoder networks consist of recurrent neural networks trained using teacher forcing.
 * Implemented data augmentation for improving the robustness of the autoencoder, as proposed by Shen et al [1](https://arxiv.org/pdf/1905.12777.pdf).
 * Analysed the embedding space of headlines by interpolating between headlines.
-* Developed a system to extract the most similar headlines to a given headline.
+* Developed a system to extract the most similar headlines to a given headline.  
 *Keywords: Deep Learning, Natural Language Processing, Autoencoder, Recurrent Neural Network, Data Augmentation, Interpolation*
