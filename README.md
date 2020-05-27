@@ -25,7 +25,7 @@ This end-to-end project deals with preprocessing the image data, creating models
 Since the characteristics of mens and womens shoes are different, I evaluated my model's performance seperately on mens shoes and womens shoes.  
 ![Learning Curve for Model 1](https://github.com/saihiel/Data-Portfolio/blob/master/images/Project2/model%201%20learning%20curve.png)  
 ![Learning Curve for Model 2](https://github.com/saihiel/Data-Portfolio/blob/master/images/Project2/model%202%20learning%20curve.png)  
-
+## Results  
 Model 2 acheived a higher validation accuracy and was hence selected to be evaluated on the test set. The model achieved  an accuracy of **85%** on womens shoes and **76%** on mens shoes. I suspect this difference is due to more defining characteristics commonly present on womens shoes.  
 Example of mens shoes classified correctly |  Example of womens shoes classified incorrectly
 :-------------------------:|:-------------------------:
