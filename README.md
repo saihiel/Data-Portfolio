@@ -27,7 +27,6 @@ Since the characteristics of mens and womens shoes are different, I evaluated my
 ![Learning Curve for Model 2](https://github.com/saihiel/Data-Portfolio/blob/master/images/Project2/model%202%20learning%20curve.png)  
 
 Model 2 acheived a higher validation accuracy and was hence selected to be evaluated on the test set. The model achieved  an accuracy of **85%** on womens shoes and **76%** on mens shoes. I suspect this difference is due to more defining characteristics commonly present on womens shoes.  
-
-![An example of mens shoes classified correctly](https://github.com/saihiel/Data-Portfolio/blob/master/images/Project2/mens_correct.png)
-
-![An example of womens shoes classified incorrectly](https://github.com/saihiel/Data-Portfolio/blob/master/images/Project2/womens_wrong.png)
+Example of mens shoes classified correctly |  Example of womens shoes classified incorrectly
+:-------------------------:|:-------------------------:
+![](https://github.com/saihiel/Data-Portfolio/blob/master/images/Project2/mens_correct.png)  |  ![](https://github.com/saihiel/Data-Portfolio/blob/master/images/Project2/womens_wrong.png)
